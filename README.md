@@ -10,3 +10,6 @@ Some more things that I plan to take a look at.
 
 - https://karpathy.github.io/2026/02/12/microgpt/
 - https://blog.headlandstech.com/2024/05/01/opinion-rationalizing-latency-competition-in-high-frequency-trading/
+
+Longer notes.
+- https://www.teach.cs.toronto.edu/~csc311notes/
